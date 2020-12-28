@@ -8,4 +8,4 @@ Ted Talks project was condactued for the purposes of Deepsense.ai Internship rec
 ML_1/2/3 stores techniques I encountered during learning the ML workflow. It covers wide range of topics important for creating end to end ML project
 
 ## Polish Pizzeria
-Multivariete time-series forecasting based on data from .csv file. The goal is to predict daily pizza sales.
+Multivariete time-series forecasting based on data from .csv file. The goal is to predict daily pizza sales. lol
