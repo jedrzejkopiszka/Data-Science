@@ -9,3 +9,6 @@ ML_1/2/3 stores techniques I encountered during learning the ML workflow. It cov
 
 ## Polish Pizzeria
 Multivariete time-series forecasting based on data from .csv file. The goal is to predict daily pizza sales.
+
+## Wuhan Blood 
+EDA, imputation of missing values. Study based on article in "Nature". Dataset provided by article's authors - tabular data collected in hospital in Wuhan, China around 01/02.2020
